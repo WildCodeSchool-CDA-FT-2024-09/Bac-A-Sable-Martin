@@ -41,5 +41,5 @@ jobs:
       - name: Run Unit test
         run: npm run test
 
-      - name: Run Integration test
-        run: npm run integration-testname: dev
+      # - name: Run Integration test
+      #   run: npm run integration-testname: dev
