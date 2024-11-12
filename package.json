@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "fullinstall": "cd ./client && npm i && cd ../api && npm i",
+    "test": "\necho test TODO"
+  }
+}
