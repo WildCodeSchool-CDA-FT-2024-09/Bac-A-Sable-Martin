@@ -8,6 +8,7 @@ RUN npm install
 
 COPY src src
 COPY data data
+COPY .env .env
 
 EXPOSE 4601
 
